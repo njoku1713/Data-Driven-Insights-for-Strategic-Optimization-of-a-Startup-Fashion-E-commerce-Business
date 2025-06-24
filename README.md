@@ -12,6 +12,9 @@
 
 ### Project Overview
 This project analyzes a comprehensive dataset from a Zukky Fashion, a startup e‑commerce clothing company, encompassing customer demographics, product performance, purchase history, logistics, and financial metrics. The goal is to transform raw data into actionable insights that enable stakeholders to make informed decisions, optimize product offerings, and refine marketing and operational strategies. By identifying underperforming products and highlighting key customer and sales patterns, the project aims to foster efficiency, increase profitability, and secure a competitive edge for the business.
+![Dashboard Zukky](https://github.com/user-attachments/assets/95c0b9be-97ba-4030-9d3d-18a5d8e8f87f)
+
+
 
 ### Data Sources
 
